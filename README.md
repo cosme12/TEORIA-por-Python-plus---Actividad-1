@@ -1,4 +1,4 @@
-# TEORIA-por-Python-plus---Actividad-1
+# TEORIA-por-Python-plus-Actividad-1
 
 
 Ejecutar el programa con `python run.py`
